@@ -1,2 +1,0 @@
-working on the ecommerce application 
-changes done in index file.
